@@ -1,2 +1,2 @@
-# home_backup
-aliases, vim, bash
+# My home backup
+.vim, .vimrc, .bashrc
